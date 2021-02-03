@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CurrencyDominos</name>
+    </assembly>
+    <members>
+        <member name="M:CurrencyDominos.Controller.CurrencyController.GetCurrencyList">
+            <summary>
+            Get All Currency List
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CurrencyDominos.Controller.CurrencyController.GetCurrencyByCurrencyName(System.String)">
+            <summary>
+            Get Currency By Currency Name
+            </summary>
+            <param name="currencyName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CurrencyDominos.Controller.CurrencyController.GetCurrencyByIntervalSell(System.Double,System.Double)">
+            <summary>
+            Get Currency By Interval Sell
+            </summary>
+            <param name="smallSell"></param>
+            <param name="bigSell"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
